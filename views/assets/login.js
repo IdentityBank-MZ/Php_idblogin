@@ -1,0 +1,1 @@
+$("#idbloginform-accountnumber").inputmask({"mask": "9999-AAAA-9999-AAAA-9999"});
